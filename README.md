@@ -1,5 +1,6 @@
 #Explore-US-Bikeshare-Data
-Udacity Data Analyst Degree 
+
+**Udacity Data Analyst Degree **
 
 ### Overview
 A python command line application that will ask the user the following questions:
