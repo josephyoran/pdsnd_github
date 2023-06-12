@@ -220,7 +220,9 @@ def raw_data(df):
         else:
             print("Please type 'yes' or 'no'")
             continue
-
+"""
+    The main execution function to start it all
+"""
 def main():
     while True:
         city, month, day = get_filters()
