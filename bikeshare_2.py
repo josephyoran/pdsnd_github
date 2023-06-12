@@ -1,3 +1,8 @@
+"""Udacity Project #2 Bikeshare
+
+    Returns:
+        Output for given questions asked
+"""
 import time
 import pandas as pd
 import numpy as np
